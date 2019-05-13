@@ -16,7 +16,7 @@ time to practice what we've learned.
 ## Practice Writing Arrays
 
 We're going to work with actions that _mutate_ ("change") their underlying
-structures (like `pop()`, `push()`, `shift()`, and `unshift()`).
+structures (like `pop()`, `push()`, `shift()`, and `unshift()`)
 
 Generally, it's good practice to avoid mutating a program's state whenever
 possible. However, for now, we're going to focus on the fundamentals of
